@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\試題3\bin\Debug\試題3.exe.config
+C:\Users\User\source\repos\試題3\bin\Debug\試題3.exe
+C:\Users\User\source\repos\試題3\bin\Debug\試題3.pdb
+C:\Users\User\source\repos\試題3\obj\Debug\試題3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\試題3\obj\Debug\試題3.Form1.resources
+C:\Users\User\source\repos\試題3\obj\Debug\試題3.Properties.Resources.resources
+C:\Users\User\source\repos\試題3\obj\Debug\試題3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\試題3\obj\Debug\試題3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\試題3\obj\Debug\試題3.exe
+C:\Users\User\source\repos\試題3\obj\Debug\試題3.pdb

@@ -1,0 +1,10 @@
+D:\Programming\Skill-Competition\工科賽\102\試題5\bin\Debug\試題5.exe.config
+D:\Programming\Skill-Competition\工科賽\102\試題5\bin\Debug\試題5.exe
+D:\Programming\Skill-Competition\工科賽\102\試題5\bin\Debug\試題5.pdb
+D:\Programming\Skill-Competition\工科賽\102\試題5\obj\Debug\試題5.csprojAssemblyReference.cache
+D:\Programming\Skill-Competition\工科賽\102\試題5\obj\Debug\試題5.Form1.resources
+D:\Programming\Skill-Competition\工科賽\102\試題5\obj\Debug\試題5.Properties.Resources.resources
+D:\Programming\Skill-Competition\工科賽\102\試題5\obj\Debug\試題5.csproj.GenerateResource.cache
+D:\Programming\Skill-Competition\工科賽\102\試題5\obj\Debug\試題5.csproj.CoreCompileInputs.cache
+D:\Programming\Skill-Competition\工科賽\102\試題5\obj\Debug\試題5.exe
+D:\Programming\Skill-Competition\工科賽\102\試題5\obj\Debug\試題5.pdb
